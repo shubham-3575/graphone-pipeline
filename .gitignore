@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+logs/*.log
+output/*.jsonl
+service_account.json
+.pytest_cache/
+data/*.sqlite
+data/products_cache*.jsonl
+output/csv/

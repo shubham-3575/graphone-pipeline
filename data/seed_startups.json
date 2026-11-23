@@ -1,0 +1,372 @@
+[
+ {
+  "canonical": "OpenAI",
+  "aliases": [
+   "OpenAI, Inc.",
+   "Open AI",
+   "OpenAI Inc",
+   "OpenAI LP",
+   "OpenAI Global, LLC"
+  ]
+ },
+ {
+  "canonical": "Anthropic",
+  "aliases": [
+   "Anthropic PBC",
+   "Anthropic AI",
+   "Anthropic, PBC"
+  ]
+ },
+ {
+  "canonical": "Mistral AI",
+  "aliases": [
+   "Mistral",
+   "MistralAI",
+   "Mistral AI SAS"
+  ]
+ },
+ {
+  "canonical": "Cohere",
+  "aliases": [
+   "Cohere Inc",
+   "Cohere Inc.",
+   "Cohere AI"
+  ]
+ },
+ {
+  "canonical": "Hugging Face",
+  "aliases": [
+   "HuggingFace",
+   "Hugging Face, Inc.",
+   "Hugging Face Inc"
+  ]
+ },
+ {
+  "canonical": "Stability AI",
+  "aliases": [
+   "StabilityAI",
+   "Stability AI Ltd",
+   "Stability.ai"
+  ]
+ },
+ {
+  "canonical": "Perplexity AI",
+  "aliases": [
+   "Perplexity",
+   "Perplexity.ai"
+  ]
+ },
+ {
+  "canonical": "Scale AI",
+  "aliases": [
+   "Scale",
+   "ScaleAI",
+   "Scale AI, Inc."
+  ]
+ },
+ {
+  "canonical": "Databricks",
+  "aliases": [
+   "Databricks Inc",
+   "Databricks, Inc."
+  ]
+ },
+ {
+  "canonical": "Runway",
+  "aliases": [
+   "RunwayML",
+   "Runway ML",
+   "Runway AI"
+  ]
+ },
+ {
+  "canonical": "Midjourney",
+  "aliases": [
+   "Midjourney Inc",
+   "Midjourney, Inc."
+  ]
+ },
+ {
+  "canonical": "Character.AI",
+  "aliases": [
+   "Character AI",
+   "CharacterAI",
+   "Character.ai"
+  ]
+ },
+ {
+  "canonical": "Inflection AI",
+  "aliases": [
+   "Inflection",
+   "Inflection AI Inc"
+  ]
+ },
+ {
+  "canonical": "Adept AI",
+  "aliases": [
+   "Adept",
+   "Adept AI Labs"
+  ]
+ },
+ {
+  "canonical": "xAI",
+  "aliases": [
+   "x.AI",
+   "X AI",
+   "xAI Corp"
+  ]
+ },
+ {
+  "canonical": "Together AI",
+  "aliases": [
+   "TogetherAI",
+   "Together Computer"
+  ]
+ },
+ {
+  "canonical": "Replicate",
+  "aliases": [
+   "Replicate Inc",
+   "Replicate.com"
+  ]
+ },
+ {
+  "canonical": "Weights & Biases",
+  "aliases": [
+   "Weights and Biases",
+   "WandB",
+   "W&B"
+  ]
+ },
+ {
+  "canonical": "Pinecone",
+  "aliases": [
+   "Pinecone Systems",
+   "Pinecone.io"
+  ]
+ },
+ {
+  "canonical": "Weaviate",
+  "aliases": [
+   "Weaviate B.V.",
+   "Weaviate BV"
+  ]
+ },
+ {
+  "canonical": "LangChain",
+  "aliases": [
+   "Lang Chain",
+   "LangChain Inc"
+  ]
+ },
+ {
+  "canonical": "LlamaIndex",
+  "aliases": [
+   "Llama Index",
+   "Llama-Index",
+   "LlamaIndex Inc"
+  ]
+ },
+ {
+  "canonical": "Glean",
+  "aliases": [
+   "Glean Technologies",
+   "Glean.com"
+  ]
+ },
+ {
+  "canonical": "Jasper",
+  "aliases": [
+   "Jasper AI",
+   "Jasper.ai"
+  ]
+ },
+ {
+  "canonical": "Synthesia",
+  "aliases": [
+   "Synthesia Ltd",
+   "Synthesia.io"
+  ]
+ },
+ {
+  "canonical": "ElevenLabs",
+  "aliases": [
+   "Eleven Labs",
+   "Elevenlabs.io"
+  ]
+ },
+ {
+  "canonical": "Cursor",
+  "aliases": [
+   "Anysphere",
+   "Anysphere Inc",
+   "Cursor AI"
+  ]
+ },
+ {
+  "canonical": "Cognition",
+  "aliases": [
+   "Cognition AI",
+   "Cognition Labs"
+  ]
+ },
+ {
+  "canonical": "Replit",
+  "aliases": [
+   "Replit Inc",
+   "Repl.it"
+  ]
+ },
+ {
+  "canonical": "Groq",
+  "aliases": [
+   "Groq Inc",
+   "Groq, Inc."
+  ]
+ },
+ {
+  "canonical": "Cerebras",
+  "aliases": [
+   "Cerebras Systems",
+   "Cerebras Systems Inc"
+  ]
+ },
+ {
+  "canonical": "SambaNova",
+  "aliases": [
+   "SambaNova Systems",
+   "Samba Nova"
+  ]
+ },
+ {
+  "canonical": "Lambda",
+  "aliases": [
+   "Lambda Labs",
+   "Lambda Inc",
+   "Lambda Cloud"
+  ]
+ },
+ {
+  "canonical": "CoreWeave",
+  "aliases": [
+   "Core Weave",
+   "CoreWeave Inc"
+  ]
+ },
+ {
+  "canonical": "Modal",
+  "aliases": [
+   "Modal Labs",
+   "Modal.com"
+  ]
+ },
+ {
+  "canonical": "Anyscale",
+  "aliases": [
+   "Anyscale Inc",
+   "Anyscale.com"
+  ]
+ },
+ {
+  "canonical": "Snorkel AI",
+  "aliases": [
+   "Snorkel",
+   "SnorkelAI"
+  ]
+ },
+ {
+  "canonical": "Hippocratic AI",
+  "aliases": [
+   "Hippocratic",
+   "HippocraticAI"
+  ]
+ },
+ {
+  "canonical": "Harvey",
+  "aliases": [
+   "Harvey AI",
+   "Harvey.ai"
+  ]
+ },
+ {
+  "canonical": "Moonshot AI",
+  "aliases": [
+   "Moonshot",
+   "MoonshotAI"
+  ]
+ },
+ {
+  "canonical": "DeepSeek",
+  "aliases": [
+   "Deep Seek",
+   "DeepSeek AI",
+   "Hangzhou DeepSeek"
+  ]
+ },
+ {
+  "canonical": "Zhipu AI",
+  "aliases": [
+   "Zhipu",
+   "Z.ai",
+   "Zhipu AI Inc"
+  ]
+ },
+ {
+  "canonical": "MiniMax",
+  "aliases": [
+   "Mini Max",
+   "MiniMax AI"
+  ]
+ },
+ {
+  "canonical": "01.AI",
+  "aliases": [
+   "01 AI",
+   "Zero One AI",
+   "01.ai"
+  ]
+ },
+ {
+  "canonical": "Reka AI",
+  "aliases": [
+   "Reka",
+   "Reka Inc"
+  ]
+ },
+ {
+  "canonical": "AI21 Labs",
+  "aliases": [
+   "AI21",
+   "AI21Labs",
+   "AI21 Labs Ltd"
+  ]
+ },
+ {
+  "canonical": "Aleph Alpha",
+  "aliases": [
+   "AlephAlpha",
+   "Aleph Alpha GmbH"
+  ]
+ },
+ {
+  "canonical": "Poolside",
+  "aliases": [
+   "Poolside AI",
+   "Poolside.ai"
+  ]
+ },
+ {
+  "canonical": "Sakana AI",
+  "aliases": [
+   "Sakana",
+   "SakanaAI"
+  ]
+ },
+ {
+  "canonical": "Sarvam AI",
+  "aliases": [
+   "Sarvam",
+   "SarvamAI"
+  ]
+ }
+]
